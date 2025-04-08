@@ -1,1 +1,1 @@
-const mult = (x: number, y: number): number => x * y
+const mult = (x: number, y: number): number => x * y 

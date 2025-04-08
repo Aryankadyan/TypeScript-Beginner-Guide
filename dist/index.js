@@ -1,4 +1,4 @@
-"use strict";
+"use strict"; 
 // Strings
 // let myName: string = 'Aryan Kadyan'
 // myName = 'something other person'
