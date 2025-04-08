@@ -110,7 +110,7 @@
   },
   
     // "files": ["index.ts"]
-    "include": ["src/**/*"],
+   // "include": ["src/**/*"],
    // "exclude": ["src/sub.ts"]
   }
 
